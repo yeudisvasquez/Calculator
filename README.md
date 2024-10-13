@@ -1,1 +1,1 @@
-Calculator project made with C# programming oriented language, Windows form application. 
+Calculator project made with C# programming oriented language, Console application. 
